@@ -4,6 +4,7 @@ This is a repo containing my 4th Semester ML mini-project submission
 ## Dataset
 The popular MovieLens100k Dataset is used for this project which contains 100k ratings collected from 1k users on 1700 movies, each user has rated at least 20 movies on a scale of 1 to 5.
 
+## Project Details
 
 This Project has 3 components - 
 
